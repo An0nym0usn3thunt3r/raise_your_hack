@@ -1,1 +1,14 @@
 @import "tailwindcss";
+
+:root {
+  --primary-color: #8b17cf; /* Purple-500 */
+  --secondary-color:#dbd1e0; /* Purple-200 */
+  --text-color: #7c5095; /* Purple-600 */
+  --background-color: #ffffff; /* White */
+  --accent-color: #e085d4; /* Pink-400 */
+ --foreground-color:#0a090b;/* black-900*/ 
+}
+
+body {
+  background-color: white;
+}

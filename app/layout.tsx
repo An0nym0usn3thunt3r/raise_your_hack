@@ -13,9 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Raise your Hack - BlackboxAI Track",
-  description: "Join the BlackboxAI track at Raise your Hack and build innovative AI solutions.",
+  title: "CodeGuard - Automated Code QA for Modern Teams",
+  description: "Ship code with confidence. CodeGuard provides automated code quality, security, and performance checks directly in your workflow.",
 };
+
 
 export default function RootLayout({
   children,
